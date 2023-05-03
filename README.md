@@ -1,4 +1,4 @@
-### Hi there 👋
+### 꾸준히 LEVEL UP 하는 프론트엔드 박혜원입니다 🌳
 
 <!--
 **heywon0909/heywon0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Python&logoColor=white">
+
+![heywon0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=heywon0909&show_icons=true&theme=radical)
