@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Python&logoColor=white">
 
 ![heywon0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=heywon0909&show_icons=true&theme=radical)
