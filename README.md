@@ -1,8 +1,15 @@
-### 꾸준히 LEVEL UP 하는 프론트엔드 박혜원입니다 🌳
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Park%20Hye%20Won&descAlign=35&descAlignY=30&fontAlign=51&fontAlignY=53&textBg=false&fontColor=000000&section=header&fontSize=39&animation=twinkling" />
 
+
+## 꾸준히 LEVEL UP 하는 프론트엔드 박혜원입니다 🧐
+<br/>
 <div align="center">
-⚒ Tech Stack ⚒
+
+	
+<img src="https://i.pinimg.com/564x/02/8f/68/028f6863b8e9784813d8711ab8fc445b.jpg" width="200px" />
+</div>
+<div align="center">
+<h4> ⚒ Tech Stack ⚒</h4>
 </div><br/>
 
 <div align="center">
