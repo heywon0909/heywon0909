@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Park%20Hye%20Won&descAlign=35&descAlignY=30&fontAlign=51&fontAlignY=53&textBg=false&fontColor=000000&section=header&fontSize=39&animation=twinkling" />
-
 
 ## 꾸준히 LEVEL UP 하는 프론트엔드 박혜원입니다 🧐
 <br/>
