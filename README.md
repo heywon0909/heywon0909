@@ -1,12 +1,18 @@
+<div align="center">
+<img src="https://github.com/heywon0909/heywon0909/assets/50330312/97bb6be8-8215-40e6-ad4f-01cd327fc522" width="100px" />
+</div>
 
 ## 꾸준히 LEVEL UP 하는 프론트엔드 박혜원입니다 🧐
 <br/>
 <div align="center">
 
-	
+
+
 <img src="https://i.pinimg.com/564x/02/8f/68/028f6863b8e9784813d8711ab8fc445b.jpg" width="200px" />
+
 </div>
 <div align="center">
+
 <h4> ⚒ Tech Stack ⚒</h4>
 </div><br/>
 
