@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/heywon0909/heywon0909/assets/50330312/97bb6be8-8215-40e6-ad4f-01cd327fc522" width="100px" />
-</div>
 
 ## 꾸준히 LEVEL UP 하는 프론트엔드 박혜원입니다 🧐
 <br/>
@@ -32,5 +29,7 @@
 </div>
 <!--![heywon0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=heywon0909&show_icons=true&theme=radical)-->
 
-
+<div align="center">
+<img src="https://github.com/heywon0909/heywon0909/assets/50330312/97bb6be8-8215-40e6-ad4f-01cd327fc522" width="100px" />
+</div>
 	
