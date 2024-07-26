@@ -30,6 +30,6 @@
 <!--![heywon0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=heywon0909&show_icons=true&theme=radical)-->
 
 <div align="center">
-<img src="https://github.com/heywon0909/heywon0909/assets/50330312/97bb6be8-8215-40e6-ad4f-01cd327fc522" width="100px" />
+<img src="https://github.com/user-attachments/assets/99a09428-9c61-48a2-8663-f4d6ac47f339" width="150px" />
 </div>
 	
