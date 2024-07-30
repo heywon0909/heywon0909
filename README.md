@@ -5,7 +5,9 @@
 
 
 
-<img src="https://i.pinimg.com/564x/02/8f/68/028f6863b8e9784813d8711ab8fc445b.jpg" width="200px" />
+<div align="center">
+<img src="https://github.com/user-attachments/assets/99a09428-9c61-48a2-8663-f4d6ac47f339" width="150px" />
+</div>
 
 </div>
 <div align="center">
@@ -29,7 +31,5 @@
 </div>
 <!--![heywon0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=heywon0909&show_icons=true&theme=radical)-->
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/99a09428-9c61-48a2-8663-f4d6ac47f339" width="150px" />
-</div>
+
 	
