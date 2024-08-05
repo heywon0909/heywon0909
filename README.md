@@ -3,11 +3,7 @@
 <br/>
 <div align="center">
 
-
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/99a09428-9c61-48a2-8663-f4d6ac47f339" width="150px" />
-</div>
+![hellothere](https://github.com/user-attachments/assets/bf3dafb5-ed2e-4d72-94c9-01d77ff0cca4)
 
 </div>
 <div align="center">
