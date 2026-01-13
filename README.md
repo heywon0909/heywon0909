@@ -21,8 +21,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
 <br/><br/>
  <br/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heywon0909&layout=compact"><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=heywon0909&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heywon0909&layout=compact"><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=heywon0909&show_icons=true"> -->
 </div>
 <!--![heywon0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=heywon0909&show_icons=true&theme=radical)-->
 
