@@ -2,12 +2,15 @@
 ## Hello, I'm heywon0909 
 <br/>
 <div align="center">
-<img width="2240" height="1228" alt="2026-07-21-42808-sbgnly" src="https://github.com/user-attachments/assets/0bbbeafa-5529-47b4-8eb6-b5a8ec95b6cf" />
+
+
+<video src="https://github.com/user-attachments/assets/2988e568-e0da-463d-b31b-d0786d303a7a"></video>
 </div>
 
 <div align="center">
 
 <h4> ⚒ Tech Stack ⚒</h4>
+
 </div><br/>
 
 <div align="center">
