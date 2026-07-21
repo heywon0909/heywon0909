@@ -2,16 +2,21 @@
 ## Hello, I'm heywon0909 
 <br/>
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/bf3dafb5-ed2e-4d72-94c9-01d77ff0cca4" width="500" height="300"/>
+<video src="https://github.com/user-attachments/assets/aa232432-8d60-4561-a18f-b5d53f28d93f" muted autoplay playsinline loop />
 </div>
+
 <div align="center">
 
 <h4> ⚒ Tech Stack ⚒</h4>
 </div><br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+	
+
+
+
+
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
