@@ -2,7 +2,7 @@
 ## Hello, I'm heywon0909 
 <br/>
 <div align="center">
-<video src="https://github.com/user-attachments/assets/aa232432-8d60-4561-a18f-b5d53f28d93f" muted autoplay playsinline loop />
+<img width="2240" height="1228" alt="2026-07-21-42808-sbgnly" src="https://github.com/user-attachments/assets/0bbbeafa-5529-47b4-8eb6-b5a8ec95b6cf" />
 </div>
 
 <div align="center">
